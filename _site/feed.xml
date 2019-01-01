@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Śląska Grupa Microsoft. Meetups.</title>
+    <description>Śląska Grupa Microsoft. Spotkania i materiały zebrane w jednym miejscu.
+</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 01 Jan 2019 21:00:44 +0100</pubDate>
+    <lastBuildDate>Tue, 01 Jan 2019 21:00:44 +0100</lastBuildDate>
+    <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>ŚGMS#17: HTTP/2 &amp; Serverless w Azure</title>
+        <description>&lt;p&gt;&lt;a href=&quot;https://www.meetup.com/%C5%9Al%C4%85ska-Grupa-Microsoft-Meetup/events/254716111/&quot;&gt;Meetup&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;tomasz-pęczek&quot;&gt;&lt;strong&gt;Tomasz Pęczek&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;With great power comes great responsibility - using HTTP/2 responsibly&lt;/strong&gt;&lt;br /&gt;
+A lot has been written about new features in HTTP/2 and performance improvements it’s bringing, so you have probably read some of it (don’t worry if you didn’t, there will be a brief recap). But we all know there is nothing for free in IT (and especially Web) world. There are no “no brainers” or “silver bullets”. This talk focuses on what to consider to get the most out of HTTP/2 without hurting yourself or your users in the process.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;../img/speaker/tomasz-peczek.jpg&quot;&gt;&lt;img src=&quot;../img/speaker/tomasz-peczek.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;O mnie:&lt;br /&gt;
+Software developer and passionate Developer, blogger, speaker and open source author/contributor focused on Web Development in context of ASP.NET (Core) platform. For more than 10 years he has been creating web applications for health care, banking or e-learning industries. Currently he works in Oracle as an applications architect where his main areas of responsibility are web applications performance and security. Microsoft MVP in Visual Studio and Development Technologies category.&lt;/p&gt;
+
+&lt;h2 id=&quot;michał-furmankiewicz&quot;&gt;Michał Furmankiewicz&lt;/h2&gt;
+
+&lt;p&gt;**Nie lubię buzzwordów. Chmura jest jednym z nich, tak jak serverless. W czasie godzinnej sesji, na początku wyjaśnię czym jest serverless a czym nie jest, dlaczego świat go tak lubi i co realnie można zbudować korzystając z tej koncepcji. Zobaczycie dużo demo, które pokażą przekrojowo usługi i wyjaśnią jak ich używać.&lt;br /&gt;
+**&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;../img/speaker/michal-furmankiewicz.jpg&quot;&gt;&lt;img src=&quot;../img/speaker/michal-furmankiewicz.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;O mnie:&lt;br /&gt;
+Michał od 4 lat jedyne co robi, to zabawy w chmurę. Na co dzień rozwija firmę Chmurowisko (http://chmurowisko.pl/), dba o architekturę rozwiązań i pokazuje klientom pełen świat możliwości. Lubi nowe technologie i stara się je wykorzystać w realnym biznesie. Chmurę postrzega jako narzędzie, które może pomóc w transformacji firmy. W wolnym czasie występuje na konferencjach, meetupach lub pisze na blogu http://architektwchmurze.pl. Kiedy czasu jest naprawdę dużo, zakłada słuchawki i pisze kod. Tylko dla siebie i dla zabawy.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 17 Oct 2018 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/event/sgms17.html</link>
+        <guid isPermaLink="true">http://localhost:4000/event/sgms17.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>ŚGMS#16: Białystok w Kato o Azure Search, Execution Plans i ORMach</title>
+        <description>&lt;p&gt;&lt;a href=&quot;https://www.meetup.com/%C5%9Al%C4%85ska-Grupa-Microsoft-Meetup/events/254067611/&quot;&gt;Meetup&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;marcin-tyborowski&quot;&gt;&lt;strong&gt;Marcin Tyborowski&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Query Execution Plan - lets analyze something&lt;/strong&gt;&lt;br /&gt;
+Podczas prezentacji pokaze czym sa plany zapytan w SQL Server, przedstawie jak je analizowac oraz przedstawie kilka prostych sposobów na zoptymalizowanie naszej bazy danych. Prezentacja ma na celu pokazac co skrywaja przed nami nasze zapytania, oraz uswiadomic, ze na LINQ i Entity Framework swiat sie nie konczy, a wybór tych rozwiazan w pewnym momencie rozwoju projektu jest strzalem w kolano.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;../img/speaker-Marcin-Tyborowski.jpg&quot;&gt;&lt;img src=&quot;../img/speaker-Marcin-Tyborowski.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;O mnie:&lt;br /&gt;
+Marcin Tyborowski, student 3 roku informatyki na Politechnice Bialostockiej, na co dzien programista .NET w Elastic Cloud Solutions.&lt;br /&gt;
+Otwarty na nowe technologie, aktywny w spolecznosciach, przewodniczacy kola .NET PB, prywatnie zapalony skateboardowiec oraz fan dobrych ksiazek i filmów.&lt;/p&gt;
+
+&lt;h2 id=&quot;kacper-swislocki&quot;&gt;Kacper Swislocki&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Azure Search, czyli zaawansowana wyszukiwarka w kilku krokach&lt;/strong&gt;&lt;br /&gt;
+Prezentacja bedzie wprowadzeniem do Azure Search. Opowiem na jakiej zasadzie dziala wyszukiwanie, jakie sa mozliwosci oraz dlaczego warto jej uzywac. Pokaze jak szybko zaczac korzystac z tej uslugi oraz zaprezentuje kilka przykladów dzialan, które oferuje biblioteka Miscrosoft Azure Search.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;../img/speaker-Kacper-Swislocki.jpg&quot;&gt;&lt;img src=&quot;../img/speaker-Kacper-Swislocki.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;O mnie:&lt;br /&gt;
+Student informatyki na Politechnice Bialostockiej, programista w firmie Elastic Cloud Solutions, który w wolnych chwilach interesuje sie kosmosem oraz lubi poznawac nowe technologie.&lt;/p&gt;
+
+&lt;h2 id=&quot;rafal-hryniewski&quot;&gt;Rafal Hryniewski&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;ORM - the tip of an iceberg&lt;/strong&gt;&lt;br /&gt;
+Chyba juz w kazdym jezyku programowania mozemy dobierac sie do naszych cennych danych za pomoca róznego rodzaju ORMów. Faktem jest, ze narzedzia te znacznie przyspieszaja wytwarzanie oprogramowania. Jednoczesnie pozwalaja na myslenie o zawartosci naszych baz danych i operacjach na nich przez pryzmat obiektowego paradygmatu programowania, co jest o wiele latwiejsze do przelkniecia dla osób poczatkujacych. ORMy maja mnóstwo zalet. Czesto jednak idziemy na latwizne i nie schodzimy do warstwy bazy danych jesli nie jest to absolutnie koniecznie, a nawet jezeli przyjdzie co do czego, to tylko szturchamy ja odpowiednio dlugim kijem z bezpiecznej odleglosci i uciekamy czym predzej do cieplego, bezpiecznego swiatka programowania obietowego. Na tej sesji pokaze Wam, kilka róznych funkcji i ciekawostek, które oferuje nam baza danych SQL Server, a które sa czesto pomijane przez ich brak w popularnych ORMach. Pokaze Wam równiez jak stosunkowo latwo mozna skorzystac z czesci z nich w starym dobrym Entity Frameworku.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;../img/speaker-Rafal-Hryniewski.jpg&quot;&gt;&lt;img src=&quot;../img/speaker-Rafal-Hryniewski.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;O mnie:&lt;br /&gt;
+Za dnia pracuje .NET Developer i Team Leader w firmie Elastic Cloud Solutions. Noca walcze z glodem wiedzy i nuda jako entuzjasta chmury, bloger, prelegent i lider Bialostockiej Grupy .NET oraz Microsoft Azure User Group Polska w tym samym, pieknym miescie.&lt;br /&gt;
+Chwytam sie wszystkiego co nowe i swieze o ile ograniczona ilosc godzin w dobie mi na to pozwala, a czasem, by dac glowie odpoczac lubie siegnac po dobra ksiazke lub komiks&lt;/p&gt;
+</description>
+        <pubDate>Thu, 13 Sep 2018 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/event/sgms16.html</link>
+        <guid isPermaLink="true">http://localhost:4000/event/sgms16.html</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
